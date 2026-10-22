@@ -1,0 +1,38 @@
+[
+    {
+        "name": "UPLINK",
+        "path": "jarvis_network.pyw"
+    },
+    {
+        "name": "CHRONO",
+        "path": "jarvis_clock.pyw"
+    },
+    {
+        "name": "FILES",
+        "path": "jarvis_folder.pyw"
+    },
+    {
+        "name": "JARVIS_SYS..",
+        "path": "C:/dev/jarvis widget/jarvis_system_widget.pyw"
+    },
+    {
+        "name": "JARVIS_TER..",
+        "path": "C:/dev/jarvis widget/jarvis_terminal.pyw"
+    },
+    {
+        "name": "JARVIS_RADAR",
+        "path": "C:/dev/jarvis widget/jarvis_radar.pyw"
+    },
+    {
+        "name": "JARVIS_3D_..",
+        "path": "C:/dev/jarvis widget/jarvis_3d_core.pyw"
+    },
+    {
+        "name": "JARVIS_WEA..",
+        "path": "C:/dev/jarvis widget/jarvis_weather.pyw"
+    },
+    {
+        "name": "JARVIS_AUDIO",
+        "path": "C:/dev/jarvis widget/jarvis_audio.pyw"
+    }
+]
